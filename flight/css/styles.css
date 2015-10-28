@@ -1,0 +1,33 @@
+.pannello {
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: cornsilk;
+    border: 1px solid darkblue;
+}
+
+.blue_zone {
+    color:aliceblue;
+    background: #4477CC;
+    border-collapse: collapse;
+}
+#tito {
+    font-family: sans-serif;
+    float: left;
+}
+
+ #tato {
+     float: left;
+     margin-left: 20px;
+     margin-top: 32px;
+     margin-bottom: 30px;
+ }
